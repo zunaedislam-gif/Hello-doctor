@@ -1,0 +1,8 @@
+{
+  "name": "Hello Doctor",
+  "description": "A multi-role telemedicine app with a clean clinical soft blue theme, interactive app simulator, and exportable Flutter skeleton project files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
